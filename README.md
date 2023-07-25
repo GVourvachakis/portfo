@@ -1,2 +1,2 @@
-# portfo
-My portfolio website project
+# portfo_exercise
+website exercise (project)
